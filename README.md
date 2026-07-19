@@ -24,30 +24,22 @@ A Python-based data analytics tool designed to evaluate student academic metrics
 ### 1. Subject-Wise Class Average
 Analyzes the overall class performance per subject against a global baseline average, color-coded based on achievement thresholds.
 
-> 💡 **Where to place the graph:** Insert the image right below the description to visually show how the subjects match up side-by-side.
-
-<img src="reports/sales_dashboard.png" alt="Sales Dashboard Output" width="600"/>
+<img src="reports/Class Average by Subject.png" alt="Class Average by Subject" width="600"/>
 
 ### 2. Score Distribution Per Student
 Individual student performance frequencies modeled across distinct metric bins to observe variance in individual marks.
 
-> 💡 **Where to place the graph:** Place the side-by-side histogram panel directly below this description so viewers can quickly cross-compare distributions.
-
-![Student Histograms](student_histograms.png)
+<img src="reports/Score Distribution Per Student.png" alt="Score Distribution Per Student" width="600"/>
 
 ### 3. Student Performance Comparison
 A comparative multi-line analysis displaying student scores side-by-side with localized inline annotations marking final-subject placements.
 
-> 💡 **Where to place the graph:** Put the line chart right here to let users track the intersecting trend lines easily.
-
-![Student Comparison](student_comparison.png)
+<img src="reports/Student Performance Across Subjects.png" alt="Student Performance Across Subjects" width="600"/>
 
 ### 4. Consolidated Student Performance Report Dashboard
 The complete dashboard compiling an analytical heatmap of precise score values, an overall subject profile chart, and a subject-wise score distribution box plot.
 
-> 💡 **Where to place the graph:** Showcase the final exported dashboard file at the bottom of the section as the master summary of the project.
-
-![Student Performance Report Dashboard](student_report.png)
+<img src="reports/Student Performance Report 2024.png" alt="Student Performance Report 2024" width="600"/>
 
 ---
 
