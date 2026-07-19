@@ -29,7 +29,7 @@ Analyzes the overall class performance per subject against a global baseline ave
 ### 2. Score Distribution Per Student
 Individual student performance frequencies modeled across distinct metric bins to observe variance in individual marks.
 
-<img src="reports/Score Distribution Per Student.png" alt="Score Distribution Per Student" width="600"/>
+<img src="reports/Score Distribution per Student.png" alt="Score Distribution Per Student" width="600"/>
 
 ### 3. Student Performance Comparison
 A comparative multi-line analysis displaying student scores side-by-side with localized inline annotations marking final-subject placements.
